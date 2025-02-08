@@ -12,7 +12,7 @@ though you need to get to level 20 to get best shops and vendors
 ||||||||
 |-:|-:|-:|-:|-:|-:|-:|
 |S|P|E|C|I|A|L|
-|1|1|1|9|10|1|5|
+|3|3|1|9|10|1|1|
 ||||||||
 
 Play 
@@ -20,7 +20,7 @@ Play
   - kill bugs
   - open safes
   - hack computers
-  - You're special: strength
+  - You're special: perception
   - Grognac book
 
 Activities:
@@ -91,37 +91,37 @@ Enjoy the rest of the game
 # Leveling
 |||
 |--|--|
-|level 002| idiot savant 1|
+|level 002| cap collector 1|
 |level 003| science 1|
 |level 004| chemist 1|
-|level 005| cap collector 1|
-|level 006| charisma 10|
-|level 007| gun nut 1|
-|level 008| medic 1|
+|level 005| charisma 10|
+|level 006| gun nut 1|
+|level 007| medic 1|
+|level 008| locksmith 1|
 |level 009| local leader 1|
-|level 010| strength 3|
-|level 011| idiot savant 2|
-|level 012| armorer 1|
-|level 013| gun nut 2|
+|level 010| armorer 1|
+|level 011| scrapper 1|
+|level 012| skip|
+|level 013| gun nut 2, armorer 2|
 |level 014| local leader 2|
-|level 015| armorer 2|
-|level 016| perception 2|
+|level 015| endurance 2|
+|level 016| endurance 3|
 |level 017| science 2|
-|level 018| perception 3|
-|level 019| perception 4|
+|level 018| lifegiver 1|
+|level 019| lifegiver 2|
 |level 020| cap collector 2|
-|level 021| locksmith 1|
-|level 022| locksmith 2|
-|level 023| locksmith 3|
+|level 021| lifegiver 3|
+|level 022| |
+|level 023| scrapper 2|
 |level 024| skip|
 |level 025| gun nut 3, armorer 3|
-|level 026| hacker 1|
-|level 027| hacker 2|
+|level 026| |
+|level 027| |
 |level 028| science 3|
-|level 029| hacker 3|
-|level 030| nuclear physicist 1|
-|level 031| nuclear physicist 2|
-|level 032| nuclear physicist 3|
+|level 029| |
+|level 030| |
+|level 031| |
+|level 032| |
 |level 033| |
 |level 034| |
 |level 035| |
