@@ -92,15 +92,15 @@ Enjoy the rest of the game
 |||
 |--|--|
 |level 002| cap collector 1|
-|level 003| science 1|
-|level 004| chemist 1|
-|level 005| charisma 10|
+|level 003| charisma 10|
+|level 004| science 1|
+|level 005| chemist 1|
 |level 006| gun nut 1|
 |level 007| medic 1|
 |level 008| locksmith 1|
 |level 009| local leader 1|
-|level 010| armorer 1|
-|level 011| scrapper 1|
+|level 010| scrapper 1|
+|level 011| armorer 1|
 |level 012| skip|
 |level 013| gun nut 2, armorer 2|
 |level 014| local leader 2|
